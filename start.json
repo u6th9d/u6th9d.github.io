@@ -1,0 +1,10 @@
+{
+	"apps": [
+		{
+			"name": "blog",
+			"autorestart": false,
+			"script": "./app.js",
+			"args": "s -p 80"
+		}
+	]
+}
